@@ -1,6 +1,5 @@
 #CI项目
-name: QCA-ALL
-
+name: QCA-807X
 #CI计划
 on:
   #自动编译：当Auto-Clean运行完成后
