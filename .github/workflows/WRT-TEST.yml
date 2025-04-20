@@ -30,6 +30,7 @@ on:
           - immortalwrt/immortalwrt
           - LiBwrt/openwrt-6.x
           - qosmio/openwrt-ipq
+          - padavanonly/immortalwrt-mt798x-24.10
       BRANCH:
         default: 'main'
         required: true
